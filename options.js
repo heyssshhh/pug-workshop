@@ -4,7 +4,7 @@ exports.happy = true;
 
 exports.sitemap = [
   {
-    header: 'Category A',
+    header: 'PUGS',
     links: [
       { name: 'Link A.1', url: '#' },
       { name: 'Link A.2', url: '#' },
@@ -14,7 +14,7 @@ exports.sitemap = [
     ],
   },
   {
-    header: 'Category B',
+    header: 'ARE',
     links: [
       { name: 'Link B.1', url: '#' },
       { name: 'Link B.2', url: '#' },
@@ -24,7 +24,7 @@ exports.sitemap = [
     ],
   },
   {
-    header: 'Category C',
+    header: 'SO',
     links: [
       { name: 'Link C.1', url: '#' },
       { name: 'Link C.2', url: '#' },
@@ -34,7 +34,7 @@ exports.sitemap = [
     ],
   },
   {
-    header: 'Category D',
+    header: 'CUTE',
     links: [
       { name: 'Link D.1', url: '#' },
       { name: 'Link D.2', url: '#' },
